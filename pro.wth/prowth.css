@@ -53,6 +53,7 @@ nav ul li{
     margin-top:20px;
     padding:10px;
     line-height: 20px;
+    text-transform: lowercase;
 }
 
 .carousel {
